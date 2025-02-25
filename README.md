@@ -5,36 +5,36 @@
 <div align="center">
   <!-- Главный репозиторий -->
   <a href="https://github.com/financial-forensics-al/main-repository">
-    <img src="https://img.shields.io/badge/Ирина%20Копичникова-333333?style=for-the-badge&logo=github&logoColor=white" alt="Главный репозиторий" width="100%"/>
+    <img src="https://img.shields.io/badge/Ирина%20Копичникова-444444?style=for-the-badge&logo=github&logoColor=white" alt="Главный репозиторий" width="100%"/>
   </a>
-  <p>Описание главного репозитория</p>
+  <p></p>
   
   <!-- Первый ряд -->
   <a href="https://github.com/financial-forensics-al/repository1">
-    <img src="https://img.shields.io/badge/-Александра%20-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий 1" width="49%"/>
+    <img src="https://img.shields.io/badge/-Александра%20Бужор-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий 1" height="80" style="width: auto;/>
   </a>
   <a href="https://github.com/financial-forensics-al/repository2">
-    <img src="https://img.shields.io/badge/-Алия%20-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий 2" width="49%"/>
+    <img src="https://img.shields.io/badge/-Алия%20Беленко-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий 2" height="80" style="width: auto/>
   </a>
-  <p>Описание репозитория 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Описание репозитория 2</p>
+  <p></p>
   
   <!-- Второй ряд -->
   <a href="https://github.com/financial-forensics-al/repository3">
-    <img src="https://img.shields.io/badge/-Артём%20-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий 3" width="49%"/>
+    <img src="https://img.shields.io/badge/-Ярослава%20Гордеева-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий 3" height="80" style="width: auto;/>
   </a>
   <a href="https://github.com/financial-forensics-al/repository4">
-    <img src="https://img.shields.io/badge/-Елена%204-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий 4" width="49%"/>
+    <img src="https://img.shields.io/badge/-Елена%20Веревко-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий 4" height="80" style="width: auto;/>
   </a>
-  <p>Описание репозитория 3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Описание репозитория 4</p>
+  <p></p>
   
   <!-- Третий ряд -->
   <a href="https://github.com/financial-forensics-al/repository5">
-    <img src="https://img.shields.io/badge/-Олег%20-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий 5" width="49%"/>
+    <img src="https://img.shields.io/badge/-Артём%20Лапшин-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий 5" height="80" style="width: auto;/>
   </a>
   <a href="https://github.com/financial-forensics-al/repository6">
-    <img src="https://img.shields.io/badge/-Ярослава%20-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий 6" width="49%"/>
+    <img src="https://img.shields.io/badge/-Олег%20Мельниченко-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий 6" height="80" style="width: auto;/>
   </a>
-  <p>Описание репозитория 5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Описание репозитория 6</p>
+  <p></p>
 </div>
 
 <!-- ДОПОЛНИТЕЛЬНАЯ ИНФОРМАЦИЯ -->
