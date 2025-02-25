@@ -13,8 +13,7 @@
   <a href="https://github.com/financial-forensics-al/Alexandra">
     <img src="https://img.shields.io/badge/-Александра%20Бужор-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий 1" height="80" style="width: auto;/>
   </a>
-  <!-- Первый ряд -->
-  <a href="https://github.com/financial-forensics-al/Aliya">
+    <a href="https://github.com/financial-forensics-al/Aliya">
     <img src="https://img.shields.io/badge/-Алия%20Беленко-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий 2" height="80" style="width: auto/>
   </a>
   <p></p>
@@ -23,7 +22,6 @@
   <a href="https://github.com/financial-forensics-al/Yaroslava">
     <img src="https://img.shields.io/badge/-Ярослава%20Гордеева-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий 3" height="80" style="width: auto;/>
   </a>
- <!-- Второй ряд -->
   <a href="https://github.com/financial-forensics-al/Elena">
     <img src="https://img.shields.io/badge/-Елена%20Веревко-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий 4" height="80" style="width: auto;/>
   </a>
@@ -33,7 +31,6 @@
   <a href="https://github.com/financial-forensics-al/Artem">
     <img src="https://img.shields.io/badge/-Артём%20Лапшин-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий 5" height="80" style="width: auto;/>
   </a>
- <!-- Третий ряд -->
   <a href="https://github.com/financial-forensics-al/Oleg">
     <img src="https://img.shields.io/badge/-Олег%20Мельниченко-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий 6" height="80" style="width: auto;/>
   </a>
