@@ -13,9 +13,9 @@
   <a href="https://github.com/financial-forensics-al/Alexandra">
     <img src="https://img.shields.io/badge/-Александра%20Бужор-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий 1" height="80" style="width: auto;/>
   </a>
-    <a href="https://github.com/financial-forensics-al/Aliya">
+  <a href="https://github.com/financial-forensics-al/Aliya">
     <img src="https://img.shields.io/badge/-Алия%20Беленко-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий 2" height="80" style="width: auto/>
-  </a>
+ </a>
   <p></p>
   
   <!-- Второй ряд -->
