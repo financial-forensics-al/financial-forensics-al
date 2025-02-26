@@ -11,7 +11,7 @@
   
   
   <!-- Первый ряд -->
-  <a href="https://github.com/financial-forensics-al/Alexandra">
+  <a href="https://github.com/financial-forensics-al/1">
     <img src="https://img.shields.io/badge/-Александра%20Бужор-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий Alexandra" height="80" style="width: auto/>
   </a>
   <a href="https://github.com/financial-forensics-al/Aliya">
