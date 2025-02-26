@@ -1,6 +1,7 @@
 # Hi there 👋
 
-![Фоновое изображение](https://zefirka.club/uploads/posts/2022-10/thumbs/1664714226_65-zefirka-club-p-oboi-shkola-na-rabochii-stol-72.jpg)
+![Фоновое изображение](https://github.com/user-attachments/assets/6c34b46d-32ac-4037-af14-6b3a328b556c)
+
 
 <div align="center">
   <!-- Главный репозиторий -->
