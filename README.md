@@ -29,7 +29,7 @@
   <div align="center">
   <!-- Второй ряд -->
   <a href="https://github.com/financial-forensics-al/Yaroslava">
-    <img src="https://img.shields.io/badge/-Ярослава%20Гордеева-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий Yaroslava" height="80" style="width: auto/>
+    <img src="https://img.shields.io/badge/-Наталья%20Турбанова-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий Yaroslava" height="80" style="width: auto/>
   </a>
        <p></p>
   </div>
@@ -44,7 +44,7 @@
   <div align="center">
   <!-- Третий ряд -->
   <a href="https://github.com/financial-forensics-al/Artem">
-    <img src="https://img.shields.io/badge/-Артём%20Лапшин-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий Artem" height="80" style="width: auto/>
+    <img src="https://img.shields.io/badge/-Полина%20Кузьмина-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий Artem" height="80" style="width: auto/>
   </a>
        <p></p>
   </div>
@@ -52,6 +52,22 @@
    <!-- Разделение ряда --> 
   <a href="https://github.com/financial-forensics-al/Oleg">
     <img src="https://img.shields.io/badge/-Олег%20Мельниченко-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий Oleg" height="80" style="width: auto/>
+  </a>
+  <p></p>
+  </div>
+
+  
+  <div align="center">
+  <!-- Четвёртый ряд -->
+  <a href="https://github.com/financial-forensics-al/Artem">
+    <img src="https://img.shields.io/badge/-Кира%20Гуреева-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий Artem" height="80" style="width: auto/>
+  </a>
+       <p></p>
+  </div>
+   <div align="center">    
+   <!-- Разделение ряда --> 
+  <a href="https://github.com/financial-forensics-al/Oleg">
+    <img src="https://img.shields.io/badge/-Обучающие%20материалы-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий Oleg" height="80" style="width: auto/>
   </a>
   <p></p>
   </div>
