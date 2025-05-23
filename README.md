@@ -59,14 +59,14 @@
   
   <div align="center">
   <!-- Четвёртый ряд -->
-  <a href="https://github.com/financial-forensics-al/Artem">
+  <a href="https://github.com/financial-forensics-al/Kira">
     <img src="https://img.shields.io/badge/-Кира%20Гуреева-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий Artem" height="80" style="width: auto/>
   </a>
        <p></p>
   </div>
    <div align="center">    
    <!-- Разделение ряда --> 
-  <a href="https://github.com/financial-forensics-al/Oleg">
+  <a href="https://github.com/financial-forensics-al/Study">
     <img src="https://img.shields.io/badge/-Обучающие%20материалы-444444?style=for-the-badge&logo=github&logoColor=white" alt="Репозиторий Oleg" height="80" style="width: auto/>
   </a>
   <p></p>
